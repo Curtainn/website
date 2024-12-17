@@ -122,7 +122,7 @@ APT29 se distingue par son approche discrète et sa capacité à maintenir des a
 
 3. **Exfiltration des données**
    - Volume important de données copiées et exfiltrées, près de 300 Go.
-   - Publication de ces données via des plateformes publiques pour déstabiliser la campagne.
+   - Publication des données via des plateformes publiques pour déstabiliser la campagne.
 
 4. **Impact**
    - Déstabilisation politique : réduction de la confiance dans le processus électoral.
