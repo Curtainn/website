@@ -1,7 +1,7 @@
 ---
 date: 2024-12-17T05:59:11-05:00
 draft: false
-title: "Blog Test 2"
+title: "Le DNC - Comment l'ingérence russe à soulevé dle cas des présences hybrides"
 cover:
     image: img/top-section-bg.jpeg
     alt: 'image'
