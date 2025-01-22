@@ -10,16 +10,21 @@ tags: ["Politic ingerance", "APT28", "APT29"]
 categories: ["CTI"]
 ---
 
+# Préface
+Cette étude de cas s'ancre dans le cadre d'une sujet plus grand : comment traiter les cas de multi-présence lors de compromission par des APT.
+L'objectif est de délivrer des pistes et des idées sur de potentielles solutions de différenciations des menaces.
+
 # Étude de cas
 
 ## Le cas DNC
 
 ### Contexte
 Le DNC (Democratic National Committee) est un organisme politique américain voué à la direction du Parti démocrate.
+La compromission du DNC a commencé en Juin 2015, mais la compromission n'a été découverte que plusieurs mois plus tard. 
 
 Les agences de renseignement américaines ont attribué l'attaque à deux groupes russes :
 1. **APT28 (Fancy Bear)** : apparenté au GRU, le service de renseignement militaire russe.
-2. **APT29 (Cozy Bear)** : lié au FSB, le service de sécurité intérieur de la Russie.
+2. **APT29 (Cozy Bear)** : lié au SVR, le service de renseignement exterieur de la Russie.
 
 L'objectif de ces deux acteurs était de saboter la campagne présidentielle américaine de 2016 afin de favoriser l'élection de Donald Trump en discréditant Hillary Clinton. Ces conclusions sont détaillées dans le rapport du procureur spécial Robert Mueller, publié en avril 2019, qui affirme que « l’État russe s’est immiscé dans l’élection présidentielle de 2016 de façon systématique ».
 
@@ -160,6 +165,12 @@ Pour prévenir ce type d’attaques, il est essentiel de :
 - Renforcer la surveillance des infrastructures critiques.
 - Sensibiliser les équipes aux risques de phishing.
 - Implémenter des mécanismes de détection avancés contre les activités malveillantes persistantes.
+
+---
+
+## Recherches de fond
+
+Il est possible de consulter [ici](/incident_response_multi-actor.md) la version succinte d'un article collaboratif réalisé dans un cadre pédagogique. L'article vise à détailler comment réaliser une réponse à incident capable de distinguer les traces et chemins de compromission de multiples attaquants se chevauchant dans le temps et l'espace.
 
 ---
 
