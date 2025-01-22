@@ -1,36 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Curtain Blog</title>
-    <link>/</link>
-    <description>Recent content on Curtain Blog</description>
+    <title>Multi-Treat on Curtain Blog</title>
+    <link>/tags/multi-treat/</link>
+    <description>Recent content in Multi-Treat on Curtain Blog</description>
     <generator>Hugo -- 0.139.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 05:59:11 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog Test 2</title>
-      <link>/posts/blog-test2/</link>
-      <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
-      <guid>/posts/blog-test2/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-heading-1&#34;&gt;This is a heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;this-is-a-heading-2&#34;&gt;This is a heading 2&lt;/h2&gt;
-&lt;p&gt;Texte &lt;strong&gt;Texte&lt;/strong&gt; &lt;em&gt;Texte&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comment l&#39;ingérence russe a soulevé le cas des présences hybrides</title>
-      <link>/posts/blog-test/</link>
-      <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
-      <guid>/posts/blog-test/</guid>
-      <description>&lt;h1 id=&#34;préface&#34;&gt;Préface&lt;/h1&gt;
-&lt;p&gt;Cette étude de cas s&amp;rsquo;ancre dans le cadre d&amp;rsquo;une sujet plus grand : comment traiter les cas de multi-présence lors de compromission par des APT.
-L&amp;rsquo;objectif est de délivrer des pistes et des idées sur de potentielles solutions de différenciations des menaces.&lt;/p&gt;
-&lt;h1 id=&#34;étude-de-cas&#34;&gt;Étude de cas&lt;/h1&gt;
-&lt;h2 id=&#34;le-cas-dnc&#34;&gt;Le cas DNC&lt;/h2&gt;
-&lt;h3 id=&#34;contexte&#34;&gt;Contexte&lt;/h3&gt;
-&lt;p&gt;Le DNC (Democratic National Committee) est un organisme politique américain voué à la direction du Parti démocrate.
-La compromission du DNC a commencé en Juin 2015, mais la compromission n&amp;rsquo;a été découverte que plusieurs mois plus tard.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="/tags/multi-treat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Réponse à incident multi-acteur</title>
       <link>/posts/incident_response_multi-actor/</link>

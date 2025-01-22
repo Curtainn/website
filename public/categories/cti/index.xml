@@ -13,16 +13,27 @@
       <link>/posts/blog-test/</link>
       <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
       <guid>/posts/blog-test/</guid>
-      <description>&lt;h1 id=&#34;étude-de-cas&#34;&gt;Étude de cas&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;préface&#34;&gt;Préface&lt;/h1&gt;
+&lt;p&gt;Cette étude de cas s&amp;rsquo;ancre dans le cadre d&amp;rsquo;une sujet plus grand : comment traiter les cas de multi-présence lors de compromission par des APT.
+L&amp;rsquo;objectif est de délivrer des pistes et des idées sur de potentielles solutions de différenciations des menaces.&lt;/p&gt;
+&lt;h1 id=&#34;étude-de-cas&#34;&gt;Étude de cas&lt;/h1&gt;
 &lt;h2 id=&#34;le-cas-dnc&#34;&gt;Le cas DNC&lt;/h2&gt;
 &lt;h3 id=&#34;contexte&#34;&gt;Contexte&lt;/h3&gt;
-&lt;p&gt;Le DNC (Democratic National Committee) est un organisme politique américain voué à la direction du Parti démocrate.&lt;/p&gt;
-&lt;p&gt;Les agences de renseignement américaines ont attribué l&amp;rsquo;attaque à deux groupes russes :&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;APT28 (Fancy Bear)&lt;/strong&gt; : apparenté au GRU, le service de renseignement militaire russe.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;APT29 (Cozy Bear)&lt;/strong&gt; : lié au FSB, le service de sécurité intérieur de la Russie.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;L&amp;rsquo;objectif de ces deux acteurs était de saboter la campagne présidentielle américaine de 2016 afin de favoriser l&amp;rsquo;élection de Donald Trump en discréditant Hillary Clinton. Ces conclusions sont détaillées dans le rapport du procureur spécial Robert Mueller, publié en avril 2019, qui affirme que « l’État russe s’est immiscé dans l’élection présidentielle de 2016 de façon systématique ».&lt;/p&gt;</description>
+&lt;p&gt;Le DNC (Democratic National Committee) est un organisme politique américain voué à la direction du Parti démocrate.
+La compromission du DNC a commencé en Juin 2015, mais la compromission n&amp;rsquo;a été découverte que plusieurs mois plus tard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Réponse à incident multi-acteur</title>
+      <link>/posts/incident_response_multi-actor/</link>
+      <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
+      <guid>/posts/incident_response_multi-actor/</guid>
+      <description>&lt;h1 id=&#34;préface&#34;&gt;Préface&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;article qui va suivre vise à détailler comment réaliser une réponse à incident capable de distinguer les traces et chemins de compromission de multiples attaquants se chevauchant dans le temps et l&amp;rsquo;espace.&lt;/p&gt;
+&lt;h1 id=&#34;analyse-conceptuelle&#34;&gt;Analyse conceptuelle&lt;/h1&gt;
+&lt;h2 id=&#34;comportement-based&#34;&gt;Comportement-based&lt;/h2&gt;
+&lt;p&gt;Les réponses à incident traditionnelles se reposent dans la quasi totalité sur des artefacts bruts collectés lors de l&amp;rsquo;investigation numérique. Néanmoins, nous pensons qu&amp;rsquo;il est plus pertienet d&amp;rsquo;étudier les comportements des individus. Pourquoi ?&lt;/p&gt;
+&lt;p&gt;Les artefacts, outils, matériels&amp;hellip; peuvent varier dans le temps, de part l&amp;rsquo;évolution des technologies, des stratégies d&amp;rsquo;attaques ou part le partage de ressource. De ce fait, ces artéfacts gardent-ils toujours une valeur aussi significative ? Pas vraiment.
+A l&amp;rsquo;inverse, le comportement reste inhérent à une personne (physique ou morale). Les procédures, mode opératoires, éléments d&amp;rsquo;adaptation, tout ces points représentent des schémas de pensée propres et immuable à un entité. De plus, sur une vision court termiste, ces éléments sont très difficiles à changer et même occulter de par leur inhérence. Nous pourrions donc imaginer que le comportement soit une empreinte plus pertinente pour comprendre et caractériser un acteur.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
