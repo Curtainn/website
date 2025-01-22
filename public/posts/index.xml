@@ -2,29 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Curtain Blog</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Curtain Blog</description>
     <generator>Hugo -- 0.139.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 05:59:11 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Test 2</title>
-      <link>//localhost:1313/posts/blog-test/</link>
+      <link>/posts/blog-test2/</link>
       <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
-      <guid>//localhost:1313/posts/blog-test/</guid>
+      <guid>/posts/blog-test2/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading-1&#34;&gt;This is a heading 1&lt;/h1&gt;
 &lt;h2 id=&#34;this-is-a-heading-2&#34;&gt;This is a heading 2&lt;/h2&gt;
 &lt;p&gt;Texte &lt;strong&gt;Texte&lt;/strong&gt; &lt;em&gt;Texte&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog Test 2</title>
-      <link>//localhost:1313/posts/blog-test2/</link>
+      <title>Comment l&#39;ingérence russe a soulevé le cas des présences hybrides</title>
+      <link>/posts/blog-test/</link>
       <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
-      <guid>//localhost:1313/posts/blog-test2/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-heading-1&#34;&gt;This is a heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;this-is-a-heading-2&#34;&gt;This is a heading 2&lt;/h2&gt;
-&lt;p&gt;Texte &lt;strong&gt;Texte&lt;/strong&gt; &lt;em&gt;Texte&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>/posts/blog-test/</guid>
+      <description>&lt;h1 id=&#34;étude-de-cas&#34;&gt;Étude de cas&lt;/h1&gt;
+&lt;h2 id=&#34;le-cas-dnc&#34;&gt;Le cas DNC&lt;/h2&gt;
+&lt;h3 id=&#34;contexte&#34;&gt;Contexte&lt;/h3&gt;
+&lt;p&gt;Le DNC (Democratic National Committee) est un organisme politique américain voué à la direction du Parti démocrate.&lt;/p&gt;
+&lt;p&gt;Les agences de renseignement américaines ont attribué l&amp;rsquo;attaque à deux groupes russes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;APT28 (Fancy Bear)&lt;/strong&gt; : apparenté au GRU, le service de renseignement militaire russe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APT29 (Cozy Bear)&lt;/strong&gt; : lié au FSB, le service de sécurité intérieur de la Russie.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;L&amp;rsquo;objectif de ces deux acteurs était de saboter la campagne présidentielle américaine de 2016 afin de favoriser l&amp;rsquo;élection de Donald Trump en discréditant Hillary Clinton. Ces conclusions sont détaillées dans le rapport du procureur spécial Robert Mueller, publié en avril 2019, qui affirme que « l’État russe s’est immiscé dans l’élection présidentielle de 2016 de façon systématique ».&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

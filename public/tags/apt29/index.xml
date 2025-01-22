@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Curtain Blog</title>
-    <link>/</link>
-    <description>Recent content on Curtain Blog</description>
+    <title>APT29 on Curtain Blog</title>
+    <link>/tags/apt29/</link>
+    <description>Recent content in APT29 on Curtain Blog</description>
     <generator>Hugo -- 0.139.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 05:59:11 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog Test 2</title>
-      <link>/posts/blog-test2/</link>
-      <pubDate>Tue, 17 Dec 2024 05:59:11 -0500</pubDate>
-      <guid>/posts/blog-test2/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-heading-1&#34;&gt;This is a heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;this-is-a-heading-2&#34;&gt;This is a heading 2&lt;/h2&gt;
-&lt;p&gt;Texte &lt;strong&gt;Texte&lt;/strong&gt; &lt;em&gt;Texte&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="/tags/apt29/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comment l&#39;ingérence russe a soulevé le cas des présences hybrides</title>
       <link>/posts/blog-test/</link>
